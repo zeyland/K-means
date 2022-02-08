@@ -1,7 +1,5 @@
 
-#################################
-#Customer Segmentation with K-Means
-#################################
+####### Customer Segmentation with K-Means ########
 
 #IS PROBLEMI
 ### Kural tabanlı müşteri segmentasyonu  yöntemi RFM ile

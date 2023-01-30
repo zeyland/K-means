@@ -1,25 +1,18 @@
-
 ####### Customer Segmentation with K-Means ########
 
-#IS PROBLEMI
-### Kural tabanlı müşteri segmentasyonu  yöntemi RFM ile
-### makine öğrenmesi yöntemi  olan K-Means'in müşteri segmentasyonu için
-### karşılaştırılması beklenmektedir.
-
-# VERI SETI
-### Online Retail II isimli veri seti İngiltere merkezli online bir satış
-### mağazasının 01/12/2009 - 09/12/2011 tarihleri arasındaki satışlarını
-### içermektedir
-
-# DEGISKENLER
-### InvoiceNO – Fatura Numarası
-### Eğer bu kod C ile başlıyorsa işlemin iptal edildiğini ifade eder.
-### StockCode – Ürün Kodu
-### Her bir ürün için eşsiz numara
-### Description – Ürün İsmi
-### Quantity – Ürün Adedi
-### Faturalardaki ürünlerden kaçar tane satıldığını ifade etmektedir.
-### InvoiceDate – Fatura tarihi
-### UnitPrice – Fatura fiyatı (Sterlin)
-### CustomerID – Eşsiz müşteri numarası
-### Country – Ülke ismi
+Problem
+The comparison of customer segmentation using the K-Means machine learning method and the RFM-based customer segmentation method is expected.
+Dataset
+The dataset "Online Retail II" contains sales from a UK-based online store between 01/12/2009 - 09/12/2011.
+Variables
+InvoiceNO - Invoice Number
+If the code starts with C, it indicates that the transaction has been canceled.
+StockCode - Product Code
+Unique number for each product
+Description - Product Name
+Quantity - Product Quantity
+Indicates how many of the items in the invoices were sold.
+InvoiceDate - Invoice date
+UnitPrice - Invoice price (in Pound Sterling)
+CustomerID - Unique customer number
+Country - Country name
